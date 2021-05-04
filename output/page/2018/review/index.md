@@ -1,0 +1,6 @@
+---
+title: "Обзоры мастерских"
+date: "2018-07-14"
+---
+
+\[vc\_row content\_placement="middle" columns\_type="boxes" height="small" width="full" color\_scheme="secondary" css="%7B%22default%22%3A%7B%22padding-top%22%3A%2222px%22%2C%22padding-right%22%3A%2230px%22%2C%22padding-left%22%3A%2230px%22%7D%7D"\]\[vc\_column\]\[us\_carousel taxonomy\_category="video" columns="1" items\_gap="42px" items\_quantity="50" items\_layout="6527" img\_size="us\_1280\_720\_crop" carousel\_arrows="1" carousel\_dots="1" carousel\_center="1" breakpoint\_1\_cols="1" breakpoint\_1\_autoplay="" breakpoint\_2\_cols="1" breakpoint\_2\_autoplay="" breakpoint\_3\_autoplay="" carousel\_arrows\_style="block" carousel\_arrows\_pos="inside" carousel\_arrows\_size="3rem"\]\[vc\_custom\_heading text="Обзоры мастерских" font\_container="tag:h1|text\_align:center" use\_theme\_fonts="yes" el\_class="lineatura" css="%7B%22default%22%3A%7B%22margin-bottom%22%3A%2242px%22%7D%7D"\]\[us\_grid taxonomy\_category="overview" columns="3" items\_gap="12px" items\_quantity="9" pagination="ajax" items\_layout="6330" pagination\_btn\_style="3" pagination\_btn\_size="1.2rem" pagination\_btn\_fullwidth="1" overriding\_link="post" css="%7B%22default%22%3A%7B%22padding-right%22%3A%2224px%22%2C%22padding-left%22%3A%2224px%22%7D%7D"\]\[/vc\_column\]\[/vc\_row\]
